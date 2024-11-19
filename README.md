@@ -2,6 +2,7 @@
 
 - repo name:  
   `git clone https://github.com/adityapatil47/MiniProj2.git`
+  `cd MiniProj2`
 
 **2. create and activate env:**
 
