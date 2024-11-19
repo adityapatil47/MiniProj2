@@ -64,8 +64,4 @@ docs/_build/
 # Additional exclude dir
 /src/emotions/.ipynb_checkpoints/
 
-/resources/data/fer2013.csv
-/resources/data/emotions/*
-/resources/data/faces/*
-/resources/models/emotions/*
-/resources/models/faces/*
+/resources
