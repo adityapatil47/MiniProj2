@@ -1,6 +1,8 @@
 **1. clone the repo:**   
-  `git clone https://github.com/adityapatil47/MiniProj2.git`    
-  `cd MiniProj2`
+  - `git clone https://github.com/adityapatil47/MiniProj2.git`    
+  - `cd MiniProj2`
+  - `mkdir -p resources/data/emotions resources/data/faces`
+- `mkdir -p resources/models/emotions resources/models/faces`
 
 **2. create and activate env:**
 
